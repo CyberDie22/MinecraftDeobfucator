@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MinecraftDeobfucator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinecraftDeobfucator_jar</output-path>
+    <root id="archive" name="MinecraftDeobfucator.jar">
+      <element id="module-output" name="MinecraftDeobfucator" />
+    </root>
+  </artifact>
+</component>
